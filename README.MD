@@ -53,6 +53,9 @@ Created an interactive dashboard containing:
 - Gender-wise Churn
 - Products-wise Churn
 
+## Power BI Dashboard
+![Dashboard](screenshorts/dashboard.png)
+
 Key Business Insights
 
 - Total customers: 10,000
